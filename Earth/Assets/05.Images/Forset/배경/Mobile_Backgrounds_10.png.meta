@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 723d44f0f4f1c0e45aa1858109f9cc0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8879321741702578978
+    second: Mobile_Backgrounds_10_0
+  - first:
+      213: -527256360817543633
+    second: Mobile_Backgrounds_10_1
+  - first:
+      213: 2632348955714300662
+    second: Mobile_Backgrounds_10_2
+  - first:
+      213: 5055968791877914845
+    second: Mobile_Backgrounds_10_3
+  - first:
+      213: -833657871843927149
+    second: Mobile_Backgrounds_10_4
+  - first:
+      213: 3383447430306457834
+    second: Mobile_Backgrounds_10_5
+  - first:
+      213: 1309951278248381284
+    second: Mobile_Backgrounds_10_6
+  - first:
+      213: 8271085186121070156
+    second: Mobile_Backgrounds_10_7
+  - first:
+      213: -1530611098755585900
+    second: Mobile_Backgrounds_10_8
+  - first:
+      213: -2255513987819510932
+    second: Mobile_Backgrounds_10_9
+  - first:
+      213: 2007618668916373198
+    second: Mobile_Backgrounds_10_10
+  - first:
+      213: -4056991984354670633
+    second: Mobile_Backgrounds_10_11
+  - first:
+      213: -4655549309039097014
+    second: Mobile_Backgrounds_10_12
+  - first:
+      213: -2262410157020682047
+    second: Mobile_Backgrounds_10_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3751
+        width: 4096
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d84ea0587dbb84195b43e42c1a6be7
+      internalID: -8879321741702578978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3411
+        width: 4096
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a774817b27b24498bd79c5733db98
+      internalID: -527256360817543633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3069
+        width: 4096
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2987bb4cacdf0b944b8b1f407572e896
+      internalID: 2632348955714300662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2283
+        width: 4096
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e3d212d068c31408c93c6ef7176ece
+      internalID: 5055968791877914845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1551
+        width: 4096
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbfa11d3f1638e419126a66f4dceef6
+      internalID: -833657871843927149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 4096
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714dc157cab0e04ba8e4c38ad9ea392
+      internalID: 3383447430306457834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 4096
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed2fc91a633a6a4691cbe74ba084ba9
+      internalID: 1309951278248381284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_7
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 564
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7120e73c1fe444ea8b99fe6cb41713
+      internalID: 8271085186121070156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_8
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 558
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9709977df311472488d13f6420bdd789
+      internalID: -1530611098755585900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_9
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 554
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e0244b9ab060643bd389245b9b00a8
+      internalID: -2255513987819510932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 298
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da3ca69363ddf418ac57bf0da71a0e
+      internalID: 2007618668916373198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_11
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 278
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a88b2592a91bc14aa9ac5cacbdf1b49
+      internalID: -4056991984354670633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_12
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 278
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c7fa04119da64387ad16e29de25b5
+      internalID: -4655549309039097014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile_Backgrounds_10_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4096
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38b72cb26edc99489afe3a1b1fd18f6
+      internalID: -2262410157020682047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

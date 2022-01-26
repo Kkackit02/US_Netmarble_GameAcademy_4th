@@ -1,0 +1,1219 @@
+fileFormatVersion: 2
+guid: 6b1d13aa2bc75414189e03c5dd9fbee2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6446162840475537988
+    second: PreAssembled_01_0
+  - first:
+      213: 5398641946788308050
+    second: PreAssembled_01_1
+  - first:
+      213: 9097778183588952383
+    second: PreAssembled_01_2
+  - first:
+      213: 8404307238701690474
+    second: PreAssembled_01_3
+  - first:
+      213: 1007843923321928236
+    second: PreAssembled_01_4
+  - first:
+      213: 3541456839357469270
+    second: PreAssembled_01_5
+  - first:
+      213: 350349208260116329
+    second: PreAssembled_01_6
+  - first:
+      213: 5937552973691559923
+    second: PreAssembled_01_7
+  - first:
+      213: 4734701949456875212
+    second: PreAssembled_01_8
+  - first:
+      213: -1513355018022184881
+    second: PreAssembled_01_9
+  - first:
+      213: -5769308518648997172
+    second: PreAssembled_01_10
+  - first:
+      213: 293106235405158324
+    second: PreAssembled_01_11
+  - first:
+      213: 115956233020235542
+    second: PreAssembled_01_12
+  - first:
+      213: -6505081605964210478
+    second: PreAssembled_01_13
+  - first:
+      213: 1557916834578635107
+    second: PreAssembled_01_14
+  - first:
+      213: -2774104515930121804
+    second: PreAssembled_01_15
+  - first:
+      213: -8002762196365136449
+    second: PreAssembled_01_16
+  - first:
+      213: 7719445883401754803
+    second: PreAssembled_01_17
+  - first:
+      213: 4263053260891544464
+    second: PreAssembled_01_18
+  - first:
+      213: 4979408794864697064
+    second: PreAssembled_01_19
+  - first:
+      213: 2936693794814495820
+    second: PreAssembled_01_20
+  - first:
+      213: 5030022841697189765
+    second: PreAssembled_01_21
+  - first:
+      213: 1371615300676416428
+    second: PreAssembled_01_22
+  - first:
+      213: -3116769663603101846
+    second: PreAssembled_01_23
+  - first:
+      213: -3545897246238163463
+    second: PreAssembled_01_24
+  - first:
+      213: 116273459075357453
+    second: PreAssembled_01_25
+  - first:
+      213: 8319567713180683831
+    second: PreAssembled_01_26
+  - first:
+      213: -3509422965607743842
+    second: PreAssembled_01_27
+  - first:
+      213: 4551670001448242077
+    second: PreAssembled_01_28
+  - first:
+      213: -6786591098567150752
+    second: PreAssembled_01_29
+  - first:
+      213: 6941825450269033058
+    second: PreAssembled_01_30
+  - first:
+      213: -5372433152193167845
+    second: PreAssembled_01_31
+  - first:
+      213: -3692138983506827808
+    second: PreAssembled_01_32
+  - first:
+      213: 2905955768619970317
+    second: PreAssembled_01_33
+  - first:
+      213: -8555407878606219098
+    second: PreAssembled_01_34
+  - first:
+      213: 5483635813241096585
+    second: PreAssembled_01_35
+  - first:
+      213: 4782870194003995941
+    second: PreAssembled_01_36
+  - first:
+      213: 3993050491677522261
+    second: PreAssembled_01_37
+  - first:
+      213: -5633365171156247099
+    second: PreAssembled_01_38
+  - first:
+      213: 7194517626153490296
+    second: PreAssembled_01_39
+  - first:
+      213: 1271004462047720734
+    second: PreAssembled_01_40
+  - first:
+      213: 6909644382254868767
+    second: PreAssembled_01_41
+  - first:
+      213: 4244868517964253985
+    second: PreAssembled_01_42
+  - first:
+      213: 4831817528583750916
+    second: PreAssembled_01_43
+  - first:
+      213: 6794571249313721656
+    second: PreAssembled_01_44
+  - first:
+      213: 2134950219288546480
+    second: PreAssembled_01_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PreAssembled_01_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3289
+        width: 2040
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ea8ddacbf1a84ebd2ac32e1d00b96
+      internalID: -6446162840475537988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_1
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 4081
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a151246f5d9904e91b9a9849871d61
+      internalID: 5398641946788308050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_2
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 3207
+        width: 1961
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf352e267748a8428370f255ecc81c2
+      internalID: 9097778183588952383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3902
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8264bf0bff3c1a54fb3e222056a47555
+      internalID: 8404307238701690474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3883
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087236aafa63c1449bec02ac0ab6b267
+      internalID: 1007843923321928236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3846
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46903d7ed1db8a249866c0c6b2065886
+      internalID: 3541456839357469270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3829
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b35d98539b73b40987e42520d0c227
+      internalID: 350349208260116329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3819
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26550312b05fc40880d8ae36c1af0c
+      internalID: 5937552973691559923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3803
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5750fba5d48aec74c852bedc122f7870
+      internalID: 4734701949456875212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_9
+      rect:
+        serializedVersion: 2
+        x: 4034
+        y: 3684
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5320acdd54689394fb8d6da69f7f044c
+      internalID: -1513355018022184881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_10
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 3652
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccde5a1e5d43cf4fbee3bbc5b4e4d84
+      internalID: -5769308518648997172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_11
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 3654
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45895b0245ec5914c887aff79d8d8870
+      internalID: 293106235405158324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_12
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 3513
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574799babf19b7746aab7355738bb477
+      internalID: 115956233020235542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_13
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3482
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9f88889ca725d4a9caa3d4ebb255a5
+      internalID: -6505081605964210478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3280
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1aa57752dd1f24e8d1426077ef32fb
+      internalID: 1557916834578635107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3280
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd2e31bac5ed54d98fa342b00f40b1
+      internalID: -2774104515930121804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_16
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 3283
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497a56818ef92684c8b4a045ccd52887
+      internalID: -8002762196365136449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3263
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206123d705be9914487ac9addbffd38b
+      internalID: 7719445883401754803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2845
+        width: 2049
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfe6250e29d2e448b9fdc63043d3134
+      internalID: 4263053260891544464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3014
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fd042ad4cf8f54e88ac73b1c7be587
+      internalID: 4979408794864697064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_20
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2847
+        width: 2026
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e07e3a9e623ad4bacd7b2df67528c3
+      internalID: 2936693794814495820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_21
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2942
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e4004392c76e3438f11066d9d82a39
+      internalID: 5030022841697189765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2297
+        width: 2049
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e67df8d203dc340b913757b08e5f78
+      internalID: 1371615300676416428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_23
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2696
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec30b9ae0ea89d4699fd3dfb4819dc5
+      internalID: -3116769663603101846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_24
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 2267
+        width: 1990
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dfbc756d379fd40869e5335ad55bcd
+      internalID: -3545897246238163463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_25
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 2500
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee19a8bf0e02222409a119e8f0267f0b
+      internalID: 116273459075357453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1105
+        width: 2058
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f26119a5ca5b504c99dc041d0cd98e5
+      internalID: 8319567713180683831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_27
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1066
+        width: 2072
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6a1fc0895ad9e40bf58d611d2cfb6c
+      internalID: -3509422965607743842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_28
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 1670
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82f4396d9416ee419a466d73ec141d1
+      internalID: 4551670001448242077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_29
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 1434
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e913388932cd5489dbd1a666ce8c83
+      internalID: -6786591098567150752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_30
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 1058
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2fec7d0d112c4692a3f1ace0aca7c
+      internalID: 6941825450269033058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1016
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550fbcf511ea9644783b02b8e3757728
+      internalID: -5372433152193167845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_32
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 1034
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065aa21b5c4262148a8cdc55138b389d
+      internalID: -3692138983506827808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_33
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 998
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c61e3709286ac489d3ad43d1ae1b50
+      internalID: 2905955768619970317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_34
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 992
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9a331f8baf0834c870da4bf8f4f03e
+      internalID: -8555407878606219098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_35
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 986
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94739e83d99dd9c45ac317be453a4e2e
+      internalID: 5483635813241096585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_36
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 972
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae9762182880634badc8e916a619546
+      internalID: 4782870194003995941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 2101
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7adaac6021b74587e782ded5373a5
+      internalID: 3993050491677522261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_38
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 956
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c86bcedd5345d94d92cca6d3af2421e
+      internalID: -5633365171156247099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_39
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 124
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcdbf843ef1a0448ba7b4f9fd26538e
+      internalID: 7194517626153490296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_40
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 124
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbe9bdeee53fb14cae1680e34cb4518
+      internalID: 1271004462047720734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_41
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 124
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0643071214f14fa45bab731bd6de0
+      internalID: 6909644382254868767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_42
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 124
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d09ac0ff91a4142a82d2bcdaf40d59
+      internalID: 4244868517964253985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_43
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 0
+        width: 1986
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353db78588f72d149a51904a0b7e2edc
+      internalID: 4831817528583750916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_44
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 113
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cefc5081d66da469b98d61e80ae76d
+      internalID: 6794571249313721656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreAssembled_01_45
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 113
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be121985b07b84b93a641bc1246b0e
+      internalID: 2134950219288546480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
