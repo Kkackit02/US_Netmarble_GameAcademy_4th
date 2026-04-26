@@ -42,18 +42,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://youtu.be/BboHEp3bOpg"><img src="https://img.youtube.com/vi/BboHEp3bOpg/maxresdefault.jpg" width="320px"/><br/><sub>영상 1</sub></a>
+      <a href="https://youtu.be/BboHEp3bOpg"><img src="https://img.youtube.com/vi/BboHEp3bOpg/hqdefault.jpg" width="320px"/><br/><sub>영상 1</sub></a>
     </td>
     <td align="center">
-      <a href="https://youtu.be/I8omL7ITmXI"><img src="https://img.youtube.com/vi/I8omL7ITmXI/maxresdefault.jpg" width="320px"/><br/><sub>영상 2</sub></a>
+      <a href="https://youtu.be/I8omL7ITmXI"><img src="https://img.youtube.com/vi/I8omL7ITmXI/hqdefault.jpg" width="320px"/><br/><sub>영상 2</sub></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://youtu.be/YgcTGjLp1o4"><img src="https://img.youtube.com/vi/YgcTGjLp1o4/maxresdefault.jpg" width="320px"/><br/><sub>영상 3</sub></a>
+      <a href="https://youtu.be/YgcTGjLp1o4"><img src="https://img.youtube.com/vi/YgcTGjLp1o4/hqdefault.jpg" width="320px"/><br/><sub>영상 3</sub></a>
     </td>
     <td align="center">
-      <a href="https://youtu.be/NaqcNTMoVtk"><img src="https://img.youtube.com/vi/NaqcNTMoVtk/maxresdefault.jpg" width="320px"/><br/><sub>영상 4</sub></a>
+      <a href="https://youtu.be/NaqcNTMoVtk"><img src="https://img.youtube.com/vi/NaqcNTMoVtk/hqdefault.jpg" width="320px"/><br/><sub>영상 4</sub></a>
     </td>
   </tr>
 </table>
