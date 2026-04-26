@@ -42,16 +42,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=gZ0_UarQ-Y0" target="_blank">
-        <img src="https://img.youtube.com/vi/gZ0_UarQ-Y0/0.jpg" width="320px" /><br/>
-        <sub>4기 아카데미 게임 영상</sub>
-      </a>
+      <a href="https://youtu.be/BboHEp3bOpg"><img src="https://img.youtube.com/vi/BboHEp3bOpg/maxresdefault.jpg" width="320px"/><br/><sub>영상 1</sub></a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=RUY2oBrOs-0" target="_blank">
-        <img src="https://img.youtube.com/vi/RUY2oBrOs-0/0.jpg" width="320px" /><br/>
-        <sub>수업 스케치 영상</sub>
-      </a>
+      <a href="https://youtu.be/I8omL7ITmXI"><img src="https://img.youtube.com/vi/I8omL7ITmXI/maxresdefault.jpg" width="320px"/><br/><sub>영상 2</sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/YgcTGjLp1o4"><img src="https://img.youtube.com/vi/YgcTGjLp1o4/maxresdefault.jpg" width="320px"/><br/><sub>영상 3</sub></a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/NaqcNTMoVtk"><img src="https://img.youtube.com/vi/NaqcNTMoVtk/maxresdefault.jpg" width="320px"/><br/><sub>영상 4</sub></a>
     </td>
   </tr>
 </table>
@@ -60,6 +62,9 @@
 
 ## 📸 스크린샷
 
-<!-- 스크린샷을 여기에 추가해주세요 -->
-> 이미지를 드래그하거나 링크를 붙여넣어 추가하세요.
+![Title](screenshots/US_title.png)
 
+<img src="screenshots/US_1.png" width="32%"/> <img src="screenshots/US_2.png" width="32%"/> <img src="screenshots/US_3.png" width="32%"/>
+<img src="screenshots/US_4.png" width="32%"/> <img src="screenshots/US_5.png" width="32%"/> <img src="screenshots/US_6.png" width="32%"/>
+<img src="screenshots/US_7.png" width="32%"/> <img src="screenshots/US_8.png" width="32%"/> <img src="screenshots/US_9.png" width="32%"/>
+<img src="screenshots/US_10.png" width="32%"/> <img src="screenshots/US_11.png" width="32%"/> <img src="screenshots/US_12.png" width="32%"/>
