@@ -93,7 +93,7 @@ TextureImporter:
       213: -2857670512131928030
     second: PreAssembled_04_29
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -110,9 +110,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -121,9 +124,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -144,9 +147,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -158,6 +167,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -170,6 +180,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -182,6 +193,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -827,9 +865,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      PreAssembled_04_0: 3713919742919736255
+      PreAssembled_04_1: -1596020884342477718
+      PreAssembled_04_10: -2649026704296644058
+      PreAssembled_04_11: 349062430067146983
+      PreAssembled_04_12: 901336391073881404
+      PreAssembled_04_13: 525108812694601107
+      PreAssembled_04_14: -267353789769125062
+      PreAssembled_04_15: 4083048807228669591
+      PreAssembled_04_16: 5280040869830846507
+      PreAssembled_04_17: -8990538402810842262
+      PreAssembled_04_18: 8357102198699812259
+      PreAssembled_04_19: -5005925870147450145
+      PreAssembled_04_2: -4955497823878301086
+      PreAssembled_04_20: -7414141914286803132
+      PreAssembled_04_21: -1028818032049254025
+      PreAssembled_04_22: 4071732360872364618
+      PreAssembled_04_23: 973440430052537672
+      PreAssembled_04_24: -2699922133712542413
+      PreAssembled_04_25: 792345409059622416
+      PreAssembled_04_26: 6397710013216418531
+      PreAssembled_04_27: 7511277567563361087
+      PreAssembled_04_28: 3068655364140909390
+      PreAssembled_04_29: -2857670512131928030
+      PreAssembled_04_3: -5648246574403014799
+      PreAssembled_04_4: -5598741772290553653
+      PreAssembled_04_5: 8119166253392269674
+      PreAssembled_04_6: -8041694562215878007
+      PreAssembled_04_7: 3200636090311215783
+      PreAssembled_04_8: 5352712422468247288
+      PreAssembled_04_9: -5178732033808885846
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

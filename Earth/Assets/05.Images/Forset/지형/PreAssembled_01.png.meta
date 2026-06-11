@@ -141,7 +141,7 @@ TextureImporter:
       213: 2134950219288546480
     second: PreAssembled_01_45
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -158,9 +158,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -169,9 +172,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -192,9 +195,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -206,6 +215,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -218,6 +228,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -230,6 +241,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1211,9 +1249,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      PreAssembled_01_0: -6446162840475537988
+      PreAssembled_01_1: 5398641946788308050
+      PreAssembled_01_10: -5769308518648997172
+      PreAssembled_01_11: 293106235405158324
+      PreAssembled_01_12: 115956233020235542
+      PreAssembled_01_13: -6505081605964210478
+      PreAssembled_01_14: 1557916834578635107
+      PreAssembled_01_15: -2774104515930121804
+      PreAssembled_01_16: -8002762196365136449
+      PreAssembled_01_17: 7719445883401754803
+      PreAssembled_01_18: 4263053260891544464
+      PreAssembled_01_19: 4979408794864697064
+      PreAssembled_01_2: 9097778183588952383
+      PreAssembled_01_20: 2936693794814495820
+      PreAssembled_01_21: 5030022841697189765
+      PreAssembled_01_22: 1371615300676416428
+      PreAssembled_01_23: -3116769663603101846
+      PreAssembled_01_24: -3545897246238163463
+      PreAssembled_01_25: 116273459075357453
+      PreAssembled_01_26: 8319567713180683831
+      PreAssembled_01_27: -3509422965607743842
+      PreAssembled_01_28: 4551670001448242077
+      PreAssembled_01_29: -6786591098567150752
+      PreAssembled_01_3: 8404307238701690474
+      PreAssembled_01_30: 6941825450269033058
+      PreAssembled_01_31: -5372433152193167845
+      PreAssembled_01_32: -3692138983506827808
+      PreAssembled_01_33: 2905955768619970317
+      PreAssembled_01_34: -8555407878606219098
+      PreAssembled_01_35: 5483635813241096585
+      PreAssembled_01_36: 4782870194003995941
+      PreAssembled_01_37: 3993050491677522261
+      PreAssembled_01_38: -5633365171156247099
+      PreAssembled_01_39: 7194517626153490296
+      PreAssembled_01_4: 1007843923321928236
+      PreAssembled_01_40: 1271004462047720734
+      PreAssembled_01_41: 6909644382254868767
+      PreAssembled_01_42: 4244868517964253985
+      PreAssembled_01_43: 4831817528583750916
+      PreAssembled_01_44: 6794571249313721656
+      PreAssembled_01_45: 2134950219288546480
+      PreAssembled_01_5: 3541456839357469270
+      PreAssembled_01_6: 350349208260116329
+      PreAssembled_01_7: 5937552973691559923
+      PreAssembled_01_8: 4734701949456875212
+      PreAssembled_01_9: -1513355018022184881
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

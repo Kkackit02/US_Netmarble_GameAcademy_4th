@@ -447,7 +447,7 @@ TextureImporter:
       213: 134729068985527652
     second: Rocks_Vegetation_147
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -464,9 +464,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -475,9 +478,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -498,9 +501,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -512,6 +521,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -524,6 +534,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -536,6 +547,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -3659,9 +3697,157 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      Rocks_Vegetation_0: 5504189692075833737
+      Rocks_Vegetation_1: 1659915495553536428
+      Rocks_Vegetation_10: -5381803755882084312
+      Rocks_Vegetation_100: -6423803502418323922
+      Rocks_Vegetation_101: -3376518460943929586
+      Rocks_Vegetation_102: -8271188762033901978
+      Rocks_Vegetation_103: -7298068210796068656
+      Rocks_Vegetation_104: 4598650314413641311
+      Rocks_Vegetation_105: -1641473707012668188
+      Rocks_Vegetation_106: -1136164981015087598
+      Rocks_Vegetation_107: -2752094339622391768
+      Rocks_Vegetation_108: 4671426632260192790
+      Rocks_Vegetation_109: 7754416452125120531
+      Rocks_Vegetation_11: 6240322815256312439
+      Rocks_Vegetation_110: -9020122179379187723
+      Rocks_Vegetation_111: -683693630891340564
+      Rocks_Vegetation_112: 6807213269337380620
+      Rocks_Vegetation_113: 441725614927875190
+      Rocks_Vegetation_114: -3366361995835366809
+      Rocks_Vegetation_115: 2973620292537795658
+      Rocks_Vegetation_116: 1201529673517944830
+      Rocks_Vegetation_117: -3854524422303402118
+      Rocks_Vegetation_118: -5904715002851706352
+      Rocks_Vegetation_119: -1657618213429866019
+      Rocks_Vegetation_12: 5029872863053201227
+      Rocks_Vegetation_120: 6121050693727066638
+      Rocks_Vegetation_121: -6738438943874127959
+      Rocks_Vegetation_122: 3004702945860067519
+      Rocks_Vegetation_123: 3219365329325728451
+      Rocks_Vegetation_124: -9074608834596394098
+      Rocks_Vegetation_125: 1568294570861424902
+      Rocks_Vegetation_126: 3583892315788735336
+      Rocks_Vegetation_127: -533258189801828423
+      Rocks_Vegetation_128: 3903967538027162922
+      Rocks_Vegetation_129: 6089784858712996074
+      Rocks_Vegetation_13: 126057484886116383
+      Rocks_Vegetation_130: 4679219046206146656
+      Rocks_Vegetation_131: -1030896174123664433
+      Rocks_Vegetation_132: -5106514494177553130
+      Rocks_Vegetation_133: 3729991180897753315
+      Rocks_Vegetation_134: 5905131036739294118
+      Rocks_Vegetation_135: -8958521048088425911
+      Rocks_Vegetation_136: 648105314656783411
+      Rocks_Vegetation_137: -3220878039259660352
+      Rocks_Vegetation_138: 6452956319992410688
+      Rocks_Vegetation_139: -4716679193447202524
+      Rocks_Vegetation_14: 8907557591963386909
+      Rocks_Vegetation_140: 4648794467994026714
+      Rocks_Vegetation_141: -7898535699791800724
+      Rocks_Vegetation_142: 6876898362032210661
+      Rocks_Vegetation_143: 6323901779345561813
+      Rocks_Vegetation_144: -7758982432926146955
+      Rocks_Vegetation_145: -1601096751508656069
+      Rocks_Vegetation_146: 738482296318925259
+      Rocks_Vegetation_147: 134729068985527652
+      Rocks_Vegetation_15: -3949603456805715981
+      Rocks_Vegetation_16: -2847427575177525246
+      Rocks_Vegetation_17: -7337901917836909516
+      Rocks_Vegetation_18: -4567743950059850458
+      Rocks_Vegetation_19: -9148436021166175821
+      Rocks_Vegetation_2: -2809565633299827010
+      Rocks_Vegetation_20: 558361544847882552
+      Rocks_Vegetation_21: -6815727596893576648
+      Rocks_Vegetation_22: -8163080185749992355
+      Rocks_Vegetation_23: 7425301251782451566
+      Rocks_Vegetation_24: -2772941703855360213
+      Rocks_Vegetation_25: 7220086353208838450
+      Rocks_Vegetation_26: 7333750414601023801
+      Rocks_Vegetation_27: -1252654245894464524
+      Rocks_Vegetation_28: -6538600163763229603
+      Rocks_Vegetation_29: -8209250788716805230
+      Rocks_Vegetation_3: -2538849579519715394
+      Rocks_Vegetation_30: 2148191856557714882
+      Rocks_Vegetation_31: -1370342275246317005
+      Rocks_Vegetation_32: 1131041281416821411
+      Rocks_Vegetation_33: 4354236554459249111
+      Rocks_Vegetation_34: -6049020588205200322
+      Rocks_Vegetation_35: -5963711758206320947
+      Rocks_Vegetation_36: 8472504178748892315
+      Rocks_Vegetation_37: 6327790394171251532
+      Rocks_Vegetation_38: -3334235558816542670
+      Rocks_Vegetation_39: 2876365653199402605
+      Rocks_Vegetation_4: -4863199492235058610
+      Rocks_Vegetation_40: 1018850487735997652
+      Rocks_Vegetation_41: -5378133996292769561
+      Rocks_Vegetation_42: 1290650909762811058
+      Rocks_Vegetation_43: 1509912492848763654
+      Rocks_Vegetation_44: -8286927330376125684
+      Rocks_Vegetation_45: 5629874522099757808
+      Rocks_Vegetation_46: -1387444677659691097
+      Rocks_Vegetation_47: -1557068899321740393
+      Rocks_Vegetation_48: 6873728202592232749
+      Rocks_Vegetation_49: 8262400953121164552
+      Rocks_Vegetation_5: -8130523411341168798
+      Rocks_Vegetation_50: 3449539295932188094
+      Rocks_Vegetation_51: 3863912513311504722
+      Rocks_Vegetation_52: 5448177142941369851
+      Rocks_Vegetation_53: -5763405451365848658
+      Rocks_Vegetation_54: -6418102671341679155
+      Rocks_Vegetation_55: 8569061315473601467
+      Rocks_Vegetation_56: 1316205542163824758
+      Rocks_Vegetation_57: 6380647133510647115
+      Rocks_Vegetation_58: 419029230023451661
+      Rocks_Vegetation_59: -4849358497519348415
+      Rocks_Vegetation_6: 8722415444402686253
+      Rocks_Vegetation_60: -7554198596904618407
+      Rocks_Vegetation_61: -900814227219062681
+      Rocks_Vegetation_62: 639585343711898895
+      Rocks_Vegetation_63: 1896838323563665288
+      Rocks_Vegetation_64: -823101748031362463
+      Rocks_Vegetation_65: -127273607333572529
+      Rocks_Vegetation_66: 5780420446247374531
+      Rocks_Vegetation_67: -8153691732357327865
+      Rocks_Vegetation_68: 1196945869124778419
+      Rocks_Vegetation_69: 2136294554188830012
+      Rocks_Vegetation_7: 6314091147880332796
+      Rocks_Vegetation_70: -2318101445485710935
+      Rocks_Vegetation_71: 3613291310649817629
+      Rocks_Vegetation_72: -6477762762133036814
+      Rocks_Vegetation_73: 8214676035476020787
+      Rocks_Vegetation_74: -2634804011615564343
+      Rocks_Vegetation_75: 6327689897509191909
+      Rocks_Vegetation_76: 3504636943430389302
+      Rocks_Vegetation_77: -5529087828691214033
+      Rocks_Vegetation_78: 1970862474081260328
+      Rocks_Vegetation_79: 8399350998886878364
+      Rocks_Vegetation_8: -8340105111454185750
+      Rocks_Vegetation_80: 2419219438506775126
+      Rocks_Vegetation_81: -5666801337988856902
+      Rocks_Vegetation_82: -1271906050603457846
+      Rocks_Vegetation_83: -3948233861590777349
+      Rocks_Vegetation_84: 2941664192777193041
+      Rocks_Vegetation_85: 13715635543662022
+      Rocks_Vegetation_86: -6456440062329897171
+      Rocks_Vegetation_87: 2538665515364935597
+      Rocks_Vegetation_88: -6347114810839383015
+      Rocks_Vegetation_89: 1335599017090065202
+      Rocks_Vegetation_9: -6777595653849203172
+      Rocks_Vegetation_90: -6338335723124120982
+      Rocks_Vegetation_91: 7868668354445213169
+      Rocks_Vegetation_92: 900794814313321808
+      Rocks_Vegetation_93: -4103205603024076244
+      Rocks_Vegetation_94: -5048241428428049342
+      Rocks_Vegetation_95: 2317248664901416141
+      Rocks_Vegetation_96: 494564909550524154
+      Rocks_Vegetation_97: 7228383543169883163
+      Rocks_Vegetation_98: -3296600870635823783
+      Rocks_Vegetation_99: 7917137969824231205
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -318,7 +318,7 @@ TextureImporter:
       213: -7675037603090821213
     second: Trees_Update_01_104
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -335,9 +335,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -346,9 +349,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -369,9 +372,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -383,6 +392,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -395,6 +405,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -407,6 +418,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -2627,9 +2665,114 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      Trees_Update_01_0: 5441072055243663444
+      Trees_Update_01_1: -1699156749384493807
+      Trees_Update_01_10: 3676394852556839943
+      Trees_Update_01_100: 8048233163059437806
+      Trees_Update_01_101: 2483869181723879781
+      Trees_Update_01_102: -4979443423787150956
+      Trees_Update_01_103: -2823671663211139890
+      Trees_Update_01_104: -7675037603090821213
+      Trees_Update_01_11: 1114176843323784139
+      Trees_Update_01_12: -8692974763458668070
+      Trees_Update_01_13: 8261298407587880771
+      Trees_Update_01_14: -7479834714031868252
+      Trees_Update_01_15: -6803707227662975168
+      Trees_Update_01_16: 2550164141732645431
+      Trees_Update_01_17: -5589959061766042535
+      Trees_Update_01_18: 3914342922442900432
+      Trees_Update_01_19: -40852530642913747
+      Trees_Update_01_2: -2137587123960556497
+      Trees_Update_01_20: 8821589657114943872
+      Trees_Update_01_21: 4091435242102430745
+      Trees_Update_01_22: -1769428342326848224
+      Trees_Update_01_23: -5487871476408634061
+      Trees_Update_01_24: -6880035154230884655
+      Trees_Update_01_25: -4485750849974242908
+      Trees_Update_01_26: 2812306892872306507
+      Trees_Update_01_27: 5030952054924234050
+      Trees_Update_01_28: -6882873487562986889
+      Trees_Update_01_29: -1613233553804516959
+      Trees_Update_01_3: 6437561129209817856
+      Trees_Update_01_30: 593123697187376525
+      Trees_Update_01_31: 1445715234223420818
+      Trees_Update_01_32: -1029737563212711999
+      Trees_Update_01_33: 9026729659518257713
+      Trees_Update_01_34: 3631275542140573546
+      Trees_Update_01_35: 6997401303884964450
+      Trees_Update_01_36: -4961253065251417598
+      Trees_Update_01_37: -5481603084234699563
+      Trees_Update_01_38: -3483243424052542470
+      Trees_Update_01_39: -122646319852817296
+      Trees_Update_01_4: -2272016973203158125
+      Trees_Update_01_40: 1146762148425075529
+      Trees_Update_01_41: 2391410417860093391
+      Trees_Update_01_42: -5656150896629111927
+      Trees_Update_01_43: 5732078446281037774
+      Trees_Update_01_44: -4519648679458458299
+      Trees_Update_01_45: 2106087029347058720
+      Trees_Update_01_46: 2081581555707307895
+      Trees_Update_01_47: 2198889415890902110
+      Trees_Update_01_48: 7305283730441947716
+      Trees_Update_01_49: 295276639569404800
+      Trees_Update_01_5: -5402071442743099136
+      Trees_Update_01_50: -2644464069857032717
+      Trees_Update_01_51: -7365013954885536642
+      Trees_Update_01_52: -8128520173725077946
+      Trees_Update_01_53: -8438433130771867505
+      Trees_Update_01_54: -3808832633841311707
+      Trees_Update_01_55: 1305795469178618646
+      Trees_Update_01_56: 2038870282945109876
+      Trees_Update_01_57: 2077897495978421821
+      Trees_Update_01_58: -7206616727913740319
+      Trees_Update_01_59: -2446217671068821221
+      Trees_Update_01_6: -183848445869367141
+      Trees_Update_01_60: -3715213732242582969
+      Trees_Update_01_61: 7817020813698355185
+      Trees_Update_01_62: 3076417649489974240
+      Trees_Update_01_63: 5845545565381313756
+      Trees_Update_01_64: 2058349064660773600
+      Trees_Update_01_65: -7225020592483926041
+      Trees_Update_01_66: 1564064992599975179
+      Trees_Update_01_67: -4776079007788469337
+      Trees_Update_01_68: 3065214705839356689
+      Trees_Update_01_69: 2581666132804560200
+      Trees_Update_01_7: 7118822004818802328
+      Trees_Update_01_70: -2784537139425104412
+      Trees_Update_01_71: 4590477539883307275
+      Trees_Update_01_72: 5560164180237522193
+      Trees_Update_01_73: 2035388760794723851
+      Trees_Update_01_74: 6372635217137755557
+      Trees_Update_01_75: -8495724087002364808
+      Trees_Update_01_76: -3608315661121372392
+      Trees_Update_01_77: 9104567424918475520
+      Trees_Update_01_78: -2835200326014365431
+      Trees_Update_01_79: -5330088215331375470
+      Trees_Update_01_8: -4356968271069890685
+      Trees_Update_01_80: -2809070195669660040
+      Trees_Update_01_81: -10850056722293531
+      Trees_Update_01_82: 8768963549644904816
+      Trees_Update_01_83: 3392954625048057928
+      Trees_Update_01_84: -7444056530421499282
+      Trees_Update_01_85: -7508269944008659780
+      Trees_Update_01_86: -818594283525552987
+      Trees_Update_01_87: -7503548153693055232
+      Trees_Update_01_88: 7818936155290181477
+      Trees_Update_01_89: -8623097447330082004
+      Trees_Update_01_9: -31577176845045342
+      Trees_Update_01_90: -7618218972001039331
+      Trees_Update_01_91: -6258798650369126996
+      Trees_Update_01_92: 265981105684289527
+      Trees_Update_01_93: -5677198370471881258
+      Trees_Update_01_94: -3830225121131648756
+      Trees_Update_01_95: -50838110825449804
+      Trees_Update_01_96: -4910997588160662161
+      Trees_Update_01_97: -693200681056369790
+      Trees_Update_01_98: 8545666694421381113
+      Trees_Update_01_99: 3414759787996955736
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
